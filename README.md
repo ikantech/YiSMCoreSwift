@@ -1,0 +1,2 @@
+# YiSMCoreSwift
+yismcore swift version
